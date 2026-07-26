@@ -1,0 +1,13 @@
+{
+  "name": "LexBalance — Recherche juridique",
+  "short_name": "LexBalance",
+  "description": "Recherche juridique instantanée : Code civil, Code pénal, Code de la consommation, avec articles cités.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2b0d13",
+  "theme_color": "#4a1420",
+  "lang": "fr",
+  "icons": []
+}
